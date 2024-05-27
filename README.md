@@ -20,8 +20,8 @@ All customizable:
 
 ## Demonstration:
 
- [Main Menu](MainMenu.png)   |
- [Demo Gameplay](DemoGameplay.png)
+ ![Main Menu](MainMenu.png)   |
+ ![Demo Gameplay](DemoGameplay.png)
 
 ## Technologies Used:
 -Unreal Engine 5.2.1
