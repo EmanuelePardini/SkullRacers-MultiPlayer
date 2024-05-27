@@ -1,4 +1,4 @@
-# Skull Racers Multiplayer
+# Skull Racers Online
 
 ## Description:
 Skull Racers is a race game made in Unreal Engine 5.2.1 for Academic purpose to test Multiplayer functionalities.
